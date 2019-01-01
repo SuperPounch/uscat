@@ -12,7 +12,7 @@
 1. 首次安装时，访问：域名/portal/install.action 用以创建管理员账号
 2. 演示地址：http://demo.javaex.cn/uscat/
     账号：admin
-    密码：111111
+    密码：123456
     管理员登录后可进入后台
 3. 视频教程：https://www.bilibili.com/video/av28055195
 4. javaex前端框架官网：http://www.javaex.cn/
