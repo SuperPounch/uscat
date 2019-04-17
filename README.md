@@ -10,14 +10,16 @@
 
 #### 特别说明
 1. 首次安装时，访问：域名/portal/install.action 用以创建管理员账号
-2. 演示地址：http://demo.javaex.cn/uscat/
+2. 演示地址：http://uscat.javaex.cn/
     账号：admin
     密码：123456
     管理员登录后可进入后台
-3. 视频教程：https://www.bilibili.com/video/av28055195
+3. 视频教程：https://www.bilibili.com/video/av49597403
 4. javaex前端框架官网：http://www.javaex.cn/
 5. javaex交流群：587243028
 6. 其他系统请移步javaex官网查看
+7. 系统交流：http://bbs.javaex.cn/viewthread/86
+
 
 #### 运营地址
 1. http://www.javaex.cn/
